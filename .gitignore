@@ -1,5 +1,5 @@
 *.iml
-/app/.externalNativeBuild/ndkBuild/
+/app/.externalNativeBuild/
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries/
