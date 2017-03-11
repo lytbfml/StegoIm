@@ -1,1 +1,1 @@
-# StegoIm
+Removing UI of Pixelknot app
