@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\c8a1b4fe2292738a90f7f4e4177af68729395f82\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\c8a1b4fe2292738a90f7f4e4177af68729395f82\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\c8a1b4fe2292738a90f7f4e4177af68729395f82\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\c8a1b4fe2292738a90f7f4e4177af68729395f82\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\c8a1b4fe2292738a90f7f4e4177af68729395f82\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\7944ab64174753bcbca2144b3cf8028c3f9c0fed\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\TOP\\Code\\StegoIm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Yangxiao\\.android\\build-cache\\c8a1b4fe2292738a90f7f4e4177af68729395f82\\output\\res\\anim\\design_fab_in.xml"
+    }
+]

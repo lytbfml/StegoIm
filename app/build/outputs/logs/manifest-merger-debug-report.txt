@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:6:5-8:42
+	android:maxSdkVersion
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:8:13-39
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:7:13-69
+uses-permission#android.permission.VIBRATE
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:9:5-92
+	android:maxSdkVersion
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:9:64-90
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:9:22-63
+uses-feature#android.hardware.camera
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:10:5-85
+	android:required
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:10:58-82
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:10:19-57
+application
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Yangxiao\.android\build-cache\c8a1b4fe2292738a90f7f4e4177af68729395f82\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Yangxiao\.android\build-cache\7944ab64174753bcbca2144b3cf8028c3f9c0fed\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Yangxiao\.android\build-cache\8296446763a776226d1482a9cf12cc16b313e0c5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Yangxiao\.android\build-cache\97017833e4bfa084f9b9629c39e60cff00d038d8\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Yangxiao\.android\build-cache\7c0d5431abfecb37418005c7bdd83f79c7e2c07d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Yangxiao\.android\build-cache\755eb3836921b7a5e1ab485fc487f3383a5b6474\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Yangxiao\.android\build-cache\601c5694d5ca411557fc769d35291e33b4ed072c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Yangxiao\.android\build-cache\eea179c6271006b3ca0cc2d2dfe74bd5d950575a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Yangxiao\.android\build-cache\e6ff7d47eea8a0c61a8111ecedceed16afe338f9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Yangxiao\.android\build-cache\82f0c5be5136a4b9ad8f16adfd738822c706f4e7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Yangxiao\.android\build-cache\58e601d2c25b3ee7f6e77576199a649a15da0bf2\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:17:13-45
+	android:supportsRtl
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:18:13-39
+	android:allowBackup
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:15:13-39
+	android:icon
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:16:13-47
+	android:theme
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:14:13-32
+activity#com.stego.lytbf.stegoim.SendActivity
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:22:17-49
+	android:theme
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:23:17-60
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:21:17-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] C:\Users\Yangxiao\.android\build-cache\c8a1b4fe2292738a90f7f4e4177af68729395f82\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Yangxiao\.android\build-cache\7944ab64174753bcbca2144b3cf8028c3f9c0fed\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Yangxiao\.android\build-cache\8296446763a776226d1482a9cf12cc16b313e0c5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Yangxiao\.android\build-cache\97017833e4bfa084f9b9629c39e60cff00d038d8\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Yangxiao\.android\build-cache\4758b978c34ea16ff94ecb934c693bf7ed9af047\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Yangxiao\.android\build-cache\7c0d5431abfecb37418005c7bdd83f79c7e2c07d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Yangxiao\.android\build-cache\755eb3836921b7a5e1ab485fc487f3383a5b6474\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Yangxiao\.android\build-cache\601c5694d5ca411557fc769d35291e33b4ed072c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Yangxiao\.android\build-cache\eea179c6271006b3ca0cc2d2dfe74bd5d950575a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Yangxiao\.android\build-cache\e6ff7d47eea8a0c61a8111ecedceed16afe338f9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Yangxiao\.android\build-cache\82f0c5be5136a4b9ad8f16adfd738822c706f4e7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Yangxiao\.android\build-cache\58e601d2c25b3ee7f6e77576199a649a15da0bf2\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Yangxiao\.android\build-cache\c8a1b4fe2292738a90f7f4e4177af68729395f82\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TOP\Code\StegoIm\app\src\main\AndroidManifest.xml
